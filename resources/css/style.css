@@ -1,22 +1,30 @@
-/* styles.css */
-
-/* Estilos para el encabezado */
-header {
-    background-color: #333;
-    color: white;
+body {
+    font-family: Verdana, sans-serif;
     text-align: center;
-    padding: 1rem;
-}
-
-/* Estilos para el contenido principal */
-main {
-    padding: 2rem;
-}
-
-/* Estilos para el pie de página */
-footer {
-    background-color: #333;
+    background-color: black;
     color: white;
-    text-align: center;
-    padding: 1rem;
 }
+
+.cta {
+    color: Aquamarine;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    color: Gray;
+    font-size: 21px;
+}
+
+.footer {
+    text-align: right;
+} 
